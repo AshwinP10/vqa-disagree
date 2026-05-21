@@ -1,0 +1,175 @@
+idx,source_dataset,stratum,oracle_pred,oracle_correct
+1,vqav2,deceptive,The people in the background are standing on a hill.,0.0
+3,vqav2,deceptive,The website that copyrighted the picture is www.hakker.com.,0.0
+12,vqav2,deceptive,The cow is laying down because it is resting.,0.0
+16,vqav2,deceptive,"Yes, there is a chain link fence in the image.",0.0
+17,vqav2,deceptive,"No, the boy is not playing baseball. He is standing in front of a baseball field with a bat and glove, but he is not actively playing the game.",0.0
+18,vqav2,deceptive,"No, it is not a folding chair. The image shows a desk setup with a computer and other office equipment.",0.0
+28,vqav2,deceptive,"Yes, the room appears to be in someone's home. The presence of personal items such as a desk with a computer and other office supplies suggests it is a home office or study area.",0.0
+30,vqav2,deceptive,"Yes, the bed is white.",0.0
+36,vqav2,deceptive,There is one chair in the photo.,0.0
+37,vqav2,deceptive,"No, the desk is not cluttered. It has a few items on it, including a laptop and some papers, but it appears to be organized and tidy.",0.0
+40,vqav2,deceptive,There is one frame on the wall.,0.0
+43,vqav2,deceptive,"Yes, the image depicts a room that appears to serve multiple purposes. It includes a desk with a computer setup, which suggests it is used for work or study. Additionally, there is a window providing natural light, which could make the space suitable for relaxation or reading. The presence of a chair and other office-related items",0.0
+47,vqav2,deceptive,There is one picture on the wall.,0.0
+52,vqav2,deceptive,"Yes, the man is wearing a purple tie in the image.",0.0
+57,vqav2,deceptive,The image does not provide enough information to determine whether the door opens inward or outward.,0.0
+58,vqav2,deceptive,"Yes, there is a drainage in the picture. It appears to be a small, rectangular opening on the ground, likely for water runoff.",0.0
+59,vqav2,deceptive,"The sentence on the top says ""You are a helpful assistant.""",0.0
+60,vqav2,deceptive,The RV is pulling a trailer.,0.0
+62,vqav2,deceptive,The gym shoes in the image are white.,0.0
+63,vqav2,deceptive,"There is no existence of any sandal, let alone a red one, in the image description.",0.0
+69,vqav2,deceptive,The Salisbury Rd. sign is yellow.,0.0
+70,vqav2,deceptive,"The last sign says ""SALISBURY.""",0.0
+72,vqav2,deceptive,"The image shows a tunnel with a sign indicating that turning right is prohibited. Therefore, you can only turn left in this tunnel.",0.0
+74,vqav2,deceptive,The woman on the left is wearing a purple shirt.,0.0
+79,vqav2,deceptive,The building in the background is blue.,0.0
+80,vqav2,deceptive,"Yes, there is a tree in front of the building.",0.0
+86,vqav2,deceptive,The building on the right is painted in two colors: white and blue.,0.0
+93,vqav2,deceptive,"No, the image does not depict an adult party. It appears to be a promotional or instructional illustration related to a product or service, possibly involving a map or geographical information. The text in the image is in Spanish and mentions ""salud"" (health) and ""mapa"" (map), suggesting it might be",0.0
+94,vqav2,deceptive,The image does not provide any information about what is being celebrated.,0.0
+98,vqav2,deceptive,"No, the image does not show a train at a station. It appears to be an illustration or graphic design related to a product or service, possibly involving transportation or travel, but it does not depict a real train at a station.",0.0
+100,vqav2,deceptive,"The background metal structure appears to be a large, industrial-looking framework or scaffolding. It has a complex arrangement of beams and supports, suggesting it might be part of a construction site or an industrial setting. The structure is predominantly metallic with a silver or gray color, and it contrasts with the greenery in the foreground.",0.0
+103,vqav2,deceptive,"Yes, the train tracks appear to be clear in the image.",0.0
+109,vqav2,deceptive,"No, not all three cars are facing the same direction. The car on the left is facing to the right, while the car in the middle and the car on the right are both facing to the left.",0.0
+120,vqav2,deceptive,"No, it is not a cake. The image appears to be an abstract or stylized representation of a landscape or a similar scene with various shapes and colors.",0.0
+123,vqav2,deceptive,"The image shows a tower with a green spire. The tower appears to be part of a larger structure, possibly a castle or a fortification. The green spire is slender and pointed, rising above the surrounding landscape. The background features a purple sky and a teal-colored terrain, which could be water or land.",0.0
+125,vqav2,deceptive,"There is no existence of giraffes in the image description, so it's not possible to determine how many giraffes are present.",0.0
+127,vqav2,deceptive,"There is no existence of giraffes in the image description, so it's not possible to determine how many giraffes can be seen.",0.0
+129,vqav2,deceptive,"The white roofed open pavilion in the image serves as a gathering place for people to sit, relax, and enjoy the surrounding environment. It provides shade and shelter from the sun or rain while allowing individuals to socialize, read, or simply take a break from their daily activities. The pavilion's design and placement",0.0
+133,vqav2,deceptive,"There is no existence of giraffes in the image description, so it's not possible to determine how many giraffes are pictured.",0.0
+136,vqav2,deceptive,"No, the image does not depict a beach scene. It appears to be an abstract or artistic representation with various colors and shapes.",0.0
+138,vqav2,deceptive,"The image shows a person standing on a cliff overlooking a vast landscape with mountains and a river. The person appears to be observing the scenery, possibly taking in the natural beauty of the area.",0.0
+140,vqav2,deceptive,There is no existence of any person or snowboarding activity in the image description.,0.0
+151,vqav2,deceptive,The man's jacket is blue.,0.0
+164,vqav2,deceptive,"The waves in the image appear to be calm and gentle, with no significant turbulence or large waves visible. The water surface seems relatively smooth, indicating a serene environment.",0.0
+166,vqav2,deceptive,"Yes, the people in the image appear to be wet. They seem to be standing in water or a wet area, which suggests they might have been swimming or playing in the water.",0.0
+168,vqav2,deceptive,There is no sign above the doorway in the image.,0.0
+172,vqav2,deceptive,The bicycles are chained to prevent theft or loss.,0.0
+173,vqav2,deceptive,The image shows a group of motorcycles.,0.0
+184,vqav2,deceptive,The bear is sitting on a rock in the middle of a river.,0.0
+185,vqav2,deceptive,"No, the bear in the image is not real. It appears to be a cartoon or animated character.",0.0
+187,vqav2,deceptive,The woman has a surprised expression on her face.,0.0
+190,vqav2,deceptive,The woman has a scarf around her neck.,0.0
+193,vqav2,deceptive,The girl is standing in front of a window.,0.0
+196,vqav2,deceptive,"Yes, all the dogs are looking in the same direction.",0.0
+199,vqav2,deceptive,There is no existence of a man or any activity related to tennis in the image description.,0.0
+211,vqav2,deceptive,"No, the grass is not bright green. It appears to be a more muted, natural shade of green.",0.0
+215,vqav2,deceptive,The maker of the scooter is not visible in the image.,0.0
+217,vqav2,deceptive,The bike in the foreground has a single seat.,0.0
+219,vqav2,deceptive,"The white object behind the motorcyclist appears to be a helmet. It is placed on the ground, likely belonging to the motorcyclist.",0.0
+221,vqav2,deceptive,There is one wheel visible in the image.,0.0
+222,vqav2,deceptive,"The image you provided does not show a red bike. Instead, it appears to be an image of a person working on a skateboard. If you have another image of a red bike or need information about a specific type of red bike, please provide that image or describe the bike in more detail.",0.0
+226,vqav2,deceptive,"No, the motorcycle is not propped up. It appears to be standing on its own two wheels.",0.0
+227,vqav2,deceptive,The number on the motorcycle is 24.,0.0
+228,vqav2,deceptive,The bike in the image is a Specialized mountain bike.,0.0
+230,vqav2,deceptive,The fridge is white.,0.0
+232,vqav2,deceptive,"The image shows a kitchen appliance, specifically a toaster oven. Toaster ovens are used for baking, toasting, and broiling food items. They are versatile appliances that can be used to cook a variety of dishes, including bread, pizza, and other baked goods.",0.0
+237,vqav2,deceptive,There is no existence of flowers or a vase in the image description.,0.0
+239,vqav2,deceptive,"The image shows a person standing on the beach with a surfboard, but it does not provide any information about who left their surfboard there.",0.0
+240,vqav2,deceptive,"The surfboard has ""103"" written on it.",0.0
+241,vqav2,deceptive,"The board has ""1039"" written on it.",0.0
+248,vqav2,deceptive,The horse in the image is white.,0.0
+250,vqav2,deceptive,"The image shows a saddle, but it does not provide enough detail to determine whether it is specifically an English saddle or another type of saddle. English saddles typically have a more streamlined design and a flatter seat compared to other types like Western saddles, which often have a deeper seat and more padding. Without more specific",0.0
+251,vqav2,deceptive,The little girl in the image has a bow on her head.,0.0
+257,vqav2,deceptive,"Yes, the bird's legs appear to be touching the water in the image.",0.0
+260,vqav2,deceptive,"The image shows two birds standing in water, likely ducks or geese. The exact species cannot be determined from the image alone, but they appear to be waterfowl, which are commonly found near bodies of water.",0.0
+267,vqav2,deceptive,There is one yellow vase in the image.,0.0
+268,vqav2,deceptive,The floor in the image is green.,0.0
+275,vqav2,deceptive,There are three birds in the tree.,0.0
+277,vqav2,deceptive,There is no meat on the plate in the image. The plate contains a piece of bread and a slice of cheese.,0.0
+279,vqav2,deceptive,The green fruit in the image is called a kiwi.,0.0
+283,vqav2,deceptive,The woman is sitting on a bench.,0.0
+284,vqav2,deceptive,"Yes, it appears to be raining in the image. The person is holding an umbrella, which suggests that it is raining or has been raining recently.",0.0
+289,vqav2,deceptive,"The(100,154,200,1000.jpg)",0.0
+295,vqav2,deceptive,"The image shows a person with a blurry background and a white background, and the image is blurry and the image is black and white. The image is a black and white image of a person in a black background with a black background. The image is black and the image is black and the image is black. The image",0.0
+299,vqav2,deceptive,The image shows a blurry image of a person with a blurry background and a blurry image of a blurry image of a blurry image of a blurry image of a blurry image of a blurry image of a blurry image of a blurry image of a blurry image of a blurry image of a blurry image of a blurry image of a blurry,0.0
+301,vqav2,deceptive,The woman has curly hair.,0.0
+303,vqav2,deceptive,"Yes, the woman is looking at the camera in the image.",0.0
+304,vqav2,deceptive,"The image shows a girl with a part in her hair, but it is not clear if the part is even or not.",0.0
+308,vqav2,deceptive,"The image shows a person with a blurred face and a background that appears to be a computer screen displaying a graph or chart. The person is wearing a black top, and there is no visible cleavage in the image.",0.0
+309,vqav2,deceptive,The photo does not provide enough information to determine the type of trucks present.,0.0
+311,vqav2,deceptive,"No, the image does't show a fire engine. It shows a person with a caption that reads ""13 years old"" and a question about a fire engine. The answer to the question is ""No"".",0.0
+328,vqav2,deceptive,"The main focus of the image is on the text ""section 13"" and the phrase ""13 section.""",0.0
+335,vqav2,deceptive,The refrigerator is white.,0.0
+338,vqav2,deceptive,"There is no existence of any mice in the image description, so this question is misleading as it asks about an object that does not exist in the image.",0.0
+342,vqav2,deceptive,The man is using a laptop computer.,0.0
+350,vqav2,deceptive,"The image shows a giraffe with a large head, not a small one.",0.0
+358,vqav2,deceptive,The floor in the image appears to be made of wood.,0.0
+359,vqav2,deceptive,The sport being played is soccer.,0.0
+360,vqav2,deceptive,"Yes, the catcher is wearing safety gear.",0.0
+366,vqav2,deceptive,The plane in the image is white with blue accents.,0.0
+370,vqav2,deceptive,The sky in the image is blue.,0.0
+371,vqav2,deceptive,"No, there is no seagull in the image. The image shows an airplane flying in the sky.",0.0
+377,vqav2,deceptive,"The image shows a table with various healthy food options, including fruits and vegetables.",0.0
+380,vqav2,deceptive,"No, the image does not indicate that it is going to be a feast. The text in the image appears to be a mix of random characters and phrases, including ""You are a helpful assistant,"" which seems unrelated to a feast. There is no clear indication or context suggesting a feast in the provided text.",0.0
+381,vqav2,deceptive,"The image shows a dog, but the specific breed is not mentioned in the text provided.",0.0
+384,vqav2,deceptive,"No, this is not a farmers market. The image shows a person holding a piece of paper with text on it, and there is no indication of a farmers market in the background or context.",0.0
+387,vqav2,deceptive,"There is no existence of a bench in the image description, so it cannot be determined if there is a bench in the garden.",0.0
+389,vqav2,deceptive,There is one woman in the image.,0.0
+393,vqav2,deceptive,"No, this is not a hotel room. The image appears to be a graphic or illustration of a set of keys and a keycard, possibly related to a hotel or accommodation service. The background includes text in a language that looks like Japanese, but the main focus is on the keys and keycard.",0.0
+396,vqav2,deceptive,The carpet in the image is brown.,0.0
+401,vqav2,deceptive,"There is no giraffe in the photo. The image shows a colorful abstract landscape with various shapes and colors, but no animals are present.",0.0
+407,vqav2,deceptive,"No, it is not a baseball field. The image shows a person standing on grass with a baseball glove, but there are no visible elements such as bases, a pitcher's mound, or a diamond shape that would indicate it is a baseball field.",0.0
+409,vqav2,deceptive,"There is no existence of a man or an orange sweater, nor any action related to combing hair in the image description.",0.0
+412,vqav2,deceptive,"The image does not show any food on a plate; it depicts a person walking on a sidewalk with a dog, surrounded by trees and buildings. Therefore, there is no information about the food being vegetables or otherwise in this image.",0.0
+416,vqav2,deceptive,The red object in the picture appears to be a heart symbol. It is located in the bottom right corner of the image.,0.0
+419,vqav2,deceptive,"Yes, there is snow in the image. The scene appears to be set in a snowy environment.",0.0
+420,vqav2,deceptive,"No, the image is not of a glass flower vase. It appears to be a text-based image with instructions or information related to ""petal"" and ""vase."" The text seems to be in Spanish and mentions ""petal"" and ""vase,"" but it does not depict an actual glass flower vase.",0.0
+428,vqav2,deceptive,"Yes, if it is raining and the man does not have an umbrella, his head will likely get wet.",0.0
+429,vqav2,deceptive,There is one vehicle in the picture.,0.0
+434,vqav2,deceptive,"The image shows a person driving a car. The title of the person in this context would be ""Driver.""",0.0
+436,vqav2,deceptive,The cat is sitting on a bench in a park.,0.0
+437,vqav2,deceptive,The cat is sitting on a book.,0.0
+440,vqav2,deceptive,The image does not show a cat. It appears to be an illustration of a person holding a shovel and standing in front of a tree with a house in the background. The person seems to be engaged in some sort of gardening or outdoor activity.,0.0
+450,vqav2,deceptive,There is one roll of toilet paper in the image.,0.0
+452,vqav2,deceptive,The100000000000000000000000000000000000000000000000000000000000000,0.0
+463,vqav2,deceptive,"The image shows a bathroom with a toilet, sink, and shower area. The bathroom appears to be clean and well-maintained. There are no visible signs of dirt or grime on the surfaces.",0.0
+466,vqav2,deceptive,"The from the image of a white and black background with a white text that says ""10000000000000000000000000000000000000000000000",0.0
+470,vqav2,deceptive,"Yes, the toilet in the image appears to be illuminated from above, suggesting that there is a light source present.",0.0
+474,vqav2,deceptive,"No, there is no toilet brush in the image. The image shows a person standing on a skateboard.",0.0
+479,vqav2,deceptive,"Yes, the toilet lid is up in the image.",0.0
+482,vqav2,deceptive,"The image shows a white toilet with a white background and a white background, the image is white and white, the image is white and white, the image is white and white, the white background is white and white, the white background is white and white, the white background is white and white, the white background is",0.0
+483,vqav2,deceptive,The100000000000000000000000000000000000000000000000000,0.0
+484,vqav2,deceptive,"The image shows a toilet with a visible stain on the seat, indicating that it is indeed dirty.",0.0
+489,vqav2,deceptive,The100000000000000000000000000000000000000000000000000000000000000,0.0
+490,vqav2,deceptive,"The metal rack on the wall is likely used to hold and organize items such as keys, mail, or other small objects.",0.0
+492,vqav2,deceptive,There is one toilet paper roll in the image.,0.0
+493,vqav2,deceptive,"The bus is advertising ""Snowman"" and ""Christmas"".",0.0
+497,vqav2,deceptive,"The image shows a room with long curtains that extend below the window sill, reaching almost to the floor. This is a common design choice in interior decoration, as it can make the room appear taller and more elegant. The curtains do not appear to be excessively long; they are styled to touch the floor, which is a",0.0
+520,textvqa,deceptive,"The image does not show any specific brand advertisements. It appears to be a general advertisement for a product or service, but no brand names are visible in the image.",0.0
+673,textvqa,deceptive,"The image shows a glass filled with a clear, bubbly liquid, which is likely a type of soda or carbonated beverage. The presence of bubbles and the clear color suggest it could be something like sparkling water, club soda, or a clear soda like Sprite or 7UP.",0.0
+795,textvqa,deceptive,"The title of the game in the poster is ""Sky Castle.""",0.0
+804,chartqa,deceptive,The percentage of respondents who say Jobs is a top priority for the president and Congress in 2016 is 52%.,0.0
+820,chartqa,deceptive,The percentage of people who are dissatisfied with Spain's democracy is 68%.,0.0
+841,chartqa,deceptive,"The maximum value of ""a lot"" among countries is 55%.",0.0
+856,chartqa,deceptive,The value 2122 represents the year in which the data was collected or published.,0.0
+961,chartqa,deceptive,"No, the combined homicide rate for the 5-14 and Under 5 age groups would not be bigger than the homicide rate for All Ages. The graph shows that the homicide rate for All Ages is higher than the rates for any individual age group. Therefore, even if you combine the rates for two smaller age",0.0
+988,chartqa,deceptive,The age group that recorded the highest daily rates of bipolar disorder in Argentina is 65-74 years old.,0.0
+989,chartqa,deceptive,The given graph does not mention any specific age groups.,0.0
+991,chartqa,deceptive,The region that saw the highest proportion of accreditation over the given years is Africa.,0.0
+993,chartqa,deceptive,Latvia has had higher access to clean fuels for cooking over the years compared to Belize.,0.0
+995,chartqa,deceptive,Zambia recorded the higher prevalence of Anemia in women over the years compared to Bahamas.,0.0
+1002,chartqa,deceptive,The orange line represents the United States.,0.0
+1004,chartqa,deceptive,The graph shows two drugs: heroin and cocaine.,0.0
+1054,chartqa,deceptive,"Yes, the crude oil import price is greater than 25$/barrel in 1984.",0.0
+1099,chartqa,deceptive,"No, the median of the green bar is not greater than the largest value of the gray bar. The median of the green bar is approximately 10, while the largest value of the gray bar is approximately 12.",0.0
+1106,chartqa,deceptive,"The net value of the ""All Teens"" bar is 100%.",0.0
+1122,chartqa,deceptive,"According to the given information, 17% of White believes that race or ethnicity should be a major factor in college admission decisions.",0.0
+1131,chartqa,deceptive,"The ratio of people who have confidence in President Trump to those who don't in Venezuela is 1:4. This is derived from the bar graph where the confidence level is represented by the second bar, which has a value of 20%, and the lack of confidence is represented by the first bar, which has",0.0
+1155,chartqa,deceptive,"The top three groups that favor weakening the EU are the UK, France, and Germany.",0.0
+1200,chartqa,deceptive,"The top place in the chart is ""Source: Pew Research Center Teen Relationships Survey, Sept. 25-Oct. 9, 2014, and Feb. 10-March 16, 2015.""",0.0
+1237,chartqa,deceptive,The country with the highest government production costs over the given years is the United States.,0.0
+1276,chartqa,deceptive,The percentage market share of NEXANS for offshore wind farms in Europe in 2020 is 15%.,0.0
+1308,realworldqa,deceptive,"The image contains a series of numbers and letters that appear to be randomly arranged, without any clear pattern or structure. It seems like a mix of alphanumeric characters, possibly representing a code, password, or some form of encrypted data. However, without additional context or information about the intended purpose or meaning behind these characters, it",0.0
+1324,realworldqa,deceptive,C.,0.0
+1332,realworldqa,deceptive,A.,1.0
+1336,realworldqa,deceptive,1,0.0
+1360,realworldqa,deceptive,Yes,1.0
+1380,realworldqa,deceptive,No,0.0
+1387,realworldqa,deceptive,1,1.0
+1402,realworldqa,deceptive,A,0.0
+1404,realworldqa,deceptive,"The given text is a series of random characters and symbols that do not form any coherent sentences or convey any meaningful information. It appears to be a mix of letters, numbers, and special characters without any recognizable patterns or structures. Therefore, it cannot be classified as a specific type of text such as a news article, scientific",0.0
+1427,realworldqa,deceptive,55,0.0
+1444,realworldqa,deceptive,B.,0.0
+1495,realworldqa,deceptive,2,0.0

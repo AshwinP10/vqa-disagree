@@ -1,0 +1,31 @@
+# Raw downloads (re-creatable from HuggingFace)
+data/
+
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
+
+# LaTeX build artifacts
+paper/main.pdf
+paper/main.aux
+paper/main.log
+paper/main.bbl
+paper/main.blg
+paper/main.out
+paper/main.synctex.gz
+paper/main.fdb_latexmk
+paper/main.fls
+
+# Old / intermediate review PDFs (kept only locally)
+VQA_Disagree_paper__*.pdf
+verifypdf.pdf
+
+# Unzipped CVPR author kit (active copy lives in paper/)
+cvpr-template/
+author-kit-CVPR2026-v1-latex-.zip
