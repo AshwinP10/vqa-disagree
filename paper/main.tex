@@ -39,14 +39,11 @@
 
 \begin{document}
 
-\title{\dname{}: Multi-Model Disagreement as an\\Annotation-Free Difficulty Signal for VQA Benchmarks\thanks{%
-Accepted (Paper~\#29) at the DataMFM Workshop, CVPR 2026 (non-archival): \href{https://datamfm.github.io/}{\nolinkurl{datamfm.github.io}}.\\
-\hspace*{1em}Code: \href{https://github.com/AshwinP10/vqa-disagree}{\nolinkurl{github.com/AshwinP10/vqa-disagree}}\\
-\hspace*{1em}Dataset: \href{https://huggingface.co/datasets/AshwinP10/VQA-Disagree}{\nolinkurl{huggingface.co/datasets/AshwinP10/VQA-Disagree}}}}
+\title{\dname{}: Multi-Model Disagreement as an\\Annotation-Free Difficulty Signal for VQA Benchmarks\thanks{Accepted (Paper~\#29) at the DataMFM Workshop, CVPR 2026 (non-archival): \href{https://datamfm.github.io/}{\nolinkurl{datamfm.github.io}}.}}
 
 \author{Ashwin Prakash\\
 The University of Texas at Austin\\
-{\tt\small ashwin.prakash@utexas.edu}
+{\tt\small ashwinprakash@utexas.edu}
 }
 
 \maketitle
@@ -425,9 +422,10 @@ The Deceptive stratum---which the 72B oracle solves at only
 1.7\%---is the most diagnostic of shared pretraining-level failures
 and warrants mining for label auditing.
 We release \dname{}, a 456-sample stratified subset (up to 125 per stratum,
-Easy capped at 81) on HuggingFace Hub, including the source image,
-question, ground truth, four ensemble predictions, disagreement score,
-stratum label, and 72B oracle result for the validated 455-item subset.
+Easy capped at 81) including the source image, question, ground truth, four
+ensemble predictions, disagreement score, stratum label, and 72B oracle
+result for the validated 455-item subset.
+Dataset: \href{https://huggingface.co/datasets/AshwinP10/VQA-Disagree}{\nolinkurl{huggingface.co/datasets/AshwinP10/VQA-Disagree}}; code: \href{https://github.com/AshwinP10/vqa-disagree}{\nolinkurl{github.com/AshwinP10/vqa-disagree}}.
 
 \paragraph{Limitations.}
 All 81 Easy items come from RealWorldQA, so the 28.3~pp Easy--Hard oracle
