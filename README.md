@@ -4,7 +4,7 @@
 
 A reproducible pipeline that scores 1,500 VQA samples from four public benchmarks for *multi-model disagreement* — the fraction of distinct answer clusters produced by an ensemble of four architecturally diverse 7B VLMs — and stratifies them into four difficulty buckets (Easy, Medium, Hard, Deceptive) with no human annotation. Released as a 456-sample stratified dataset on [HuggingFace Hub](https://huggingface.co/datasets/AshwinP10/VQA-Disagree).
 
-Paper: submitted to the **DataMFM Workshop @ CVPR 2026** (non-archival).
+**Accepted (Paper #29) at the [DataMFM Workshop @ CVPR 2026](https://datamfm.github.io/) (non-archival track).**
 
 ## Key results
 
