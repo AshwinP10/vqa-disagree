@@ -29,3 +29,8 @@ verifypdf.pdf
 # Unzipped CVPR author kit (active copy lives in paper/)
 cvpr-template/
 author-kit-CVPR2026-v1-latex-.zip
+
+# Stray images that wander into the working directory
+*.jpeg
+*.jpg
+*-removebg-preview.png

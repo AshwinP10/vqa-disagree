@@ -4,10 +4,10 @@
 
 \documentclass[10pt,twocolumn,letterpaper]{article}
 
-%%%%%%%%% PAPER TYPE  - PLEASE UPDATE FOR FINAL VERSION
-% \usepackage{cvpr}              % To produce the CAMERA-READY version
-\usepackage[review]{cvpr}      % To produce the REVIEW version
-% \usepackage[pagenumbers]{cvpr} % To force page numbers, e.g. for an arXiv version
+%%%%%%%%% PAPER TYPE  - arXiv version (accepted at DataMFM @ CVPR 2026)
+% \usepackage{cvpr}              % camera-ready (no page numbers)
+% \usepackage[review]{cvpr}      % review (line numbers, anonymous)
+\usepackage[pagenumbers]{cvpr}  % arXiv version: final layout with page numbers
 
 % Standard packages
 \usepackage{times}
@@ -39,13 +39,11 @@
 
 \begin{document}
 
-\title{\dname{}: Multi-Model Disagreement as an\\Annotation-Free Difficulty Signal for VQA Benchmarks}
+\title{\dname{}: Multi-Model Disagreement as an\\Annotation-Free Difficulty Signal for VQA Benchmarks\thanks{%
+Accepted at the DataMFM Workshop, CVPR 2026 (non-archival).\\
+\hspace*{1em}Code: \href{https://github.com/AshwinP10/vqa-disagree}{\nolinkurl{github.com/AshwinP10/vqa-disagree}}\\
+\hspace*{1em}Dataset: \href{https://huggingface.co/datasets/AshwinP10/VQA-Disagree}{\nolinkurl{huggingface.co/datasets/AshwinP10/VQA-Disagree}}}}
 
-%%%%%%%%% AUTHORS
-% In [review] mode (the current setting), this \author block is automatically
-% hidden by cvpr.sty and replaced with "Anonymous CVPR submission / Paper ID *****".
-% Switch the \usepackage line above to \usepackage{cvpr} for the camera-ready
-% copy and the real author block below will appear.
 \author{Ashwin Prakash\\
 The University of Texas at Austin\\
 {\tt\small ashwin.prakash@utexas.edu}
